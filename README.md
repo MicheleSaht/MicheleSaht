@@ -1,4 +1,9 @@
+<div align="center">
 
+<img align="center" height="300" src="./Assets/Logo.gif"/>
+</div>
+
+###
 <h2 align="left">Hi 👋!</h2>
 
 ###
