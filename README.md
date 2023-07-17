@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-<img align="left" height="150" src="./Assets/Profile.jpg"/>
+<img align="left" height="150" src="./Assets/Profile.jfif"/>
 </div>
 
 ###
