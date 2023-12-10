@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/totoro_rain.gif" alt="Café" width="1100px" height="400px">
+  <img src="./img/coffe.gif" alt="Café" width="200px" >
   <h2 align="center">🌸Welcome i'm Michele☕!</h2>
 </p>
 
